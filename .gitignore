@@ -1,7 +1,7 @@
 # Files to be temporarily hidden
 
 # Too large file sizes
-e3_genome_wide/monocyte_all_expression.csv
+d1_RNA_Analysis/e3_genome_wide/monocyte_all_expression.csv
 
 # Python and R files
 .ipynb_checkpoints
