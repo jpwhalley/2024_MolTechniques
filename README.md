@@ -7,6 +7,7 @@ RNA analysis
 -   How to work with qPCR data for gene expression.
 -   Do differential expression analysis.
 -   Work with genome-wide gene expression and look at gene pathway enrichment analysis.
+
 Bioinformatics
 -   Learn more generally about Bioinforamtics: next generation sequencing, processing of this data and common analyses.
 
