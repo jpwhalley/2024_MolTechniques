@@ -19,6 +19,7 @@ Please install the following suggested software:
 
 1.  [Anaconda3 (for python3
     notebooks)](https://www.anaconda.com/download/)
+2.  [Integrative Genomics Viewer (IGV)](https://igv.org/doc/desktop/#DownloadPage/)
 
 <!-- -->
 
@@ -41,7 +42,7 @@ Time and Locations
 Data
 ----
 
--   Please contact me for the data used in d1_RNA_Analysis/e3_genome_wide exercise.
+-   Please contact me for the data used in d1_RNA_Analysis/e3_genome_wide exercise of for d2_Bioinformatics
 
 Papers
 ------
